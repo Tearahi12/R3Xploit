@@ -10,8 +10,8 @@ _Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance 
 
 Hacking Roblox is against the Roblox TOS. I made this project just for **EDUCATION**.
 
-**We are not responsible for any loss or damage as a result of your action using this Program.**  
-**Any action you take upon this Program is strictly at your own risk.**
+_We are not responsible for any loss or damage as a result of your action using this Program._  
+_Any action you take upon this Program is strictly at your own risk._
 
 ## Developer
 
