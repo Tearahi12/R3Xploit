@@ -21,7 +21,7 @@ Open the project solution and import all the references **=> on reference folder
 
 For installation you can download it on Release page
 
-## To DO
+## To Do
 
 - [ ] Auto Updater
 
