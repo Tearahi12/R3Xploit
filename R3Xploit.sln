@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R3Xploit", "R3Xploit\R3Xploit.csproj", "{4178417A-A161-4351-81D7-968B718A2549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4178417A-A161-4351-81D7-968B718A2549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4178417A-A161-4351-81D7-968B718A2549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4178417A-A161-4351-81D7-968B718A2549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4178417A-A161-4351-81D7-968B718A2549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F2BAB1-3C1E-4488-ADCF-EECD78C195B2}
+	EndGlobalSection
+EndGlobal
